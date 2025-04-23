@@ -1,1 +1,1 @@
-The vimrc base on [Learn vimscript te hard way](https://learnvimscriptthehardway.stevelosh.com/)
+The vimrc base on [Learn vimscript te hard way](https://learnvimscriptthehardway.stevelosh.com/).
